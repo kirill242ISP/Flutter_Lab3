@@ -22,7 +22,7 @@ void main() {
               "Hello world!",
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 32,
+                fontSize: 60,
               ),
             ),
           ),
