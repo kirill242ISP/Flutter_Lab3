@@ -43,7 +43,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Скриншот приложения
 
-![Приложение](img/step9_ВашаФамилия.png)
+![Приложение](img/step9_Imashev_Igoshin.png)
 
 ---
 
